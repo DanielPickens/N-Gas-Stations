@@ -1,4 +1,4 @@
-//top down approache
+//top down approach
 
 var canCompleteCircuit = function(gas, cost) {
      var start = 0;
