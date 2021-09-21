@@ -1,3 +1,5 @@
+//top down approache
+
 var canCompleteCircuit = function(gas, cost) {
      var start = 0;
         var curTank = 0, tank = 0;
